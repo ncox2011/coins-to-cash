@@ -10,8 +10,3 @@ let totalPenny = piggyBank.pennies*coinValues.pennyValue;
 dollarAmount = totalDimes+totalNickel+totalQuarter+totalPenny;
 console.log(dollarAmount);
 
-
-
-//let totalQuarter = function () {
-  //  quarters * quarterValue
-//}
